@@ -9,12 +9,12 @@ Bem vindos ao meu resposítório Github!
 <div display="inline-block">
 <p align="left">💻 Dev Full-Stack em transição de carreira.🚀</p>
 <p align="left">🎨 Sou Design Gráfico</p>
-<p align="left">💺 Faço parte do Squad Team do <a href="https://www.alura.com.br/](https://www.codeclubbrasil.org.br/">Code Club Brasil</a></p>
+<p align="left">💺 Faço parte do Squad Team do <a href="https://www.codeclubbrasil.org.br/">Code Club Brasil</a></p>
 <p align="left">📚 Sou estudante de Sistemas de Computação pela<a href="https://www.uff.br/?q=curso/tecnologia-em-sistemas-de-computacao-ead/1122221/tecnologico/niteroi"> UFF</a></p>
 <p align="left">🎒 Dou aulas de programação báscia e robótica educacional para crianças como voluntáio em uma <a href="https://www.instagram.com/associacaonascentepequena/"> ONG</a></p>
 </div>
-<br>
   
+<br>  
 
 <p align="center">
 <a href="https://github.com/AugustoQueiroz13">
@@ -22,21 +22,25 @@ Bem vindos ao meu resposítório Github!
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AugustoQueiroz13&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-  <br>
-  <br>
+
+<br>
   
 ### 🖥️ Tecnologias e Ferramentas: 
  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JavaScript"/></code>
+<code><img width="40px" src="https://en.wikipedia.org/wiki/Python_(programming_language)#/media/File:Python-logo-notext.svg" title = "Phyton"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GutHub"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "Java"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
+<code><img width="40px" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" title = "Arduíno"/></code>
+<code><img width="40px" src="https://www.raspberrypi.com/app/uploads/2022/02/COLOUR-Raspberry-Pi-Symbol-Registered.png" title = "Raspberry Pi"/></code>
+  
 
 <br>
-<br>
-<br>
+  
+<h3>👽 Sigão-me os bons!</h3>
 <a href="https://www.instagram.com/aug_queiroz" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <a href="https://www.linkedin.com/in/queiroz-augusto/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-<a href="https://dev.to/jeniblo_dev" target="_blank"><img alt="Blog" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
+<a href="https://dev.to/augustoqueiroz13" target="_blank"><img alt="Blog" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
 
