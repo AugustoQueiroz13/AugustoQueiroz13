@@ -1,8 +1,8 @@
 
 <div dsplay="inline-block">
-<h3>Olá 👋</h3>
+<h3>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h3>
 Bem vindos ao meu resposítório Github!
-<h4>Eu sou</h4>
+<h4>Eu sou</h4> 
 <h1 align="left">Augusto Queiroz 😃🙏🌟</h1>
   
   
@@ -29,12 +29,12 @@ Bem vindos ao meu resposítório Github!
  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JavaScript"/></code>
-<code><img width="40px" src="https://assets.stickpng.com/thumbs/5848152fcef1014c0b5e4967.png" title = "Phyton"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GutHub"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title = "React"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "Java"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
+<code><img width="40px" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" title = "Phyton"/></code>
 <code><img width="40px" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" title = "Arduíno"/></code>
-<code><img width="40px" src="https://www.raspberrypi.com/app/uploads/2022/02/COLOUR-Raspberry-Pi-Symbol-Registered.png" title = "Raspberry Pi"/></code>
+<code><img width="40px" src="https://logodownload.org/wp-content/uploads/2018/02/raspberry-pi-logo.png" title = "Raspberry Pi"/></code>
   
 
 <br>
