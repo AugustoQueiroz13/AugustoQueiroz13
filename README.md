@@ -8,10 +8,10 @@ Bem vindos ao meu resposítório Github!
   
 <div display="inline-block">
 <p align="left">💻 Dev Full-Stack em transição de carreira.🚀</p>
-<p align="left">🎨 Sou Design Gráfico</p>
-<p align="left">💺 Faço parte do Squad Team do <a href="https://www.codeclubbrasil.org.br/">Code Club Brasil</a></p>
-<p align="left">📚 Sou estudante de Sistemas de Computação pela<a href="https://www.uff.br/?q=curso/tecnologia-em-sistemas-de-computacao-ead/1122221/tecnologico/niteroi"> UFF</a></p>
-<p align="left">🎒 Dou aulas de programação báscia e robótica educacional para crianças como voluntáio em uma <a href="https://www.instagram.com/associacaonascentepequena/"> ONG</a></p>
+<p align="left">🎨 Design Gráfico</p>
+<p align="left">💺 Parte do Squad Team do <a href="https://www.codeclubbrasil.org.br/">Code Club Brasil</a></p>
+<p align="left">📚 Estudante de Sistemas de Computação pela<a href="https://www.uff.br/?q=curso/tecnologia-em-sistemas-de-computacao-ead/1122221/tecnologico/niteroi"> UFF</a></p>
+<p align="left">🎒 Instrutor de programação báscia e robótica educacional para crianças como voluntáio em uma <a href="https://www.instagram.com/associacaonascentepequena/"> ONG</a></p>
 </div>
   
 <br>  
