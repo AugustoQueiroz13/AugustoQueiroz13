@@ -32,7 +32,7 @@ Bem vindos ao meu resposítório Github!
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title = "React"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "Java"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
-<code><img width="40px" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" title = "Phyton"/></code>
+<code><img width="40px" src="https://images.icon-icons.com/112/PNG/512/python_18894.png" title = "Phyton"/></code>
 <code><img width="40px" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" title = "Arduíno"/></code>
 <code><img width="40px" src="https://logodownload.org/wp-content/uploads/2018/02/raspberry-pi-logo.png" title = "Raspberry Pi"/></code>
   
