@@ -3,20 +3,19 @@
 <h3>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h3>
 Bem vindos ao meu resposítório Github!
 <h4>Eu sou</h4> 
-<h1 align="left">Augusto Queiroz 😃🙏🌟</h1>
+<h1 align="center">Augusto Queiroz 😃🙏🌟</h1>
   
   
-<div display="inline-block">
-<p align="left">👨‍💻 Dev Full-Stack 🚀</p>
-<p align="left">📚 Graduado em Analise de Sistemas</p>
-<p align="left">💻 Pós Graduado em Engenharia da Computação</p>
-<p align="left">🎨 Design Gráfico</p> <p align="left">🔧 Técnico em Eletrônica</p>
+<div display="block">
+<p align="center">👨‍💻 Dev Full-Stack 🚀</p>
+<p align="center">📚 Graduado em Analise de Sistemas</p>
+<p align="center">💻 Pós Graduado em Engenharia da Computação</p>
+<p align="center">🎨 Design Gráfico e 🔧Técnico em Eletrônica</p>
 <p align="left">👨‍🏫 Professor de desenvolvimento Front End JS React e Back End Python Django no<a href="https://bfd.softexpe.org.br/"> Programa Bolsa Futuro Digital - MCTI</a>
-<p align="left">🤖 Instrutor de programação báscia e robótica educacional para crianças em uma <a href="https://www.instagram.com/associacaonascentepequena/"> ONG</a>
+<p align="left">🤖 Instrutor de programação básica e robótica educacional para crianças em uma <a href="https://www.instagram.com/associacaonascentepequena/"> ONG</a>
 <p align="left">💺 Parte do Squad Team do <a href="https://www.codeclubbrasil.org.br/">Code Club Brasil</a></p>
-<p align="left">⚜️ Chefe dos Escoteiros do Mar no <a href="https://www.instagram.com/143gemarguapimirim/">143º GMAR Guapimirim</a></p>
+<p align="left">⚜️ Escoteiro do Mar no <a href="https://www.instagram.com/143gemarguapimirim/">143º GMAR Guapimirim</a></p>
 <p align="left">🥁 Músico Percussionista</p>
-  
 </div>
   
 <br>  
