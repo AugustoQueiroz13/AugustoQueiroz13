@@ -40,7 +40,7 @@ Bem vindos ao meu resposítório Github!
 <br>
   
 <h3>👽 Sigão-me os bons!</h3>
-<a href="https://www.instagram.com/aug_queiroz" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+<a href="https://www.instagram.com/aug_queiroz" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />
 <a href="https://www.linkedin.com/in/queiroz-augusto/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 <a href="https://dev.to/augustoqueiroz13" target="_blank"><img alt="Blog" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
 
