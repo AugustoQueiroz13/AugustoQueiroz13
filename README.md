@@ -30,12 +30,13 @@ Bem vindos ao meu resposítório Github!
 <br>
   
 ### 🖥️ Tecnologias e Ferramentas: 
- <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JavaScript"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title = "React"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "Java"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
+<code><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/911px-ISO_C%2B%2B_Logo.svg.png" title = "C++"/></code>
 <code><img width="40px" src="https://images.icon-icons.com/112/PNG/512/python_18894.png" title = "Phyton"/></code>
 <code><img width="40px" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" title = "Arduíno"/></code>
 <code><img width="40px" src="https://logodownload.org/wp-content/uploads/2018/02/raspberry-pi-logo.png" title = "Raspberry Pi"/></code>
