@@ -5,7 +5,10 @@ Bem vindos ao meu resposítório Github!
 <h4>Eu sou</h4> 
 <h1 align="center">Augusto Queiroz 😃🙏🌟</h1>
   
-  
+<p align="center">
+  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+</p>
+
 <div display="block">
 <p align="center">👨‍💻 Dev Full-Stack 🚀</p>
 <p align="center">📚 Graduado em Analise de Sistemas</p>
