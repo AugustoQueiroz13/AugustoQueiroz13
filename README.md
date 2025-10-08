@@ -1,56 +1,74 @@
-
-<div dsplay="inline-block" align="center">
-<h3 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h3>
-Bem vindos ao meu resposítório Github!
-
-<h1 align="center">Augusto Queiroz 😃🙏🌟</h1>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" />
+  <h1>Olá, eu sou o Augusto Queiroz!</h1>
+  <p>Desenvolvedor Full-Stack | Educador de Tecnologia | Eng da Computação | Designer & Maker</p>
   
+  <details>
+    <summary>🐱 Clique aqui para um boost de produtividade...</summary>
+    <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350" />
+  </details>
+</div>
+
+---
+
+## 👨‍💻 Sobre Mim
+
+Sou um profissional com boa experiência na área de tecnologia, em uma jornada que vai da eletrônica ao desenvolvimento de software e design. Minha verdadeira paixão é **desmistificar a tecnologia** e capacitar outras pessoas a criarem suas próprias soluções.
+
+### 🎓 Formação
+* ⚙️🖥️ Pós-Graduado em **Engenharia da Computação**
+* 🎓👨‍💻 Graduado em **Análise e Desenvolvimento de Sistemas**
+* 🔧💡 Formação como **Técnico em Eletrônica**
+
+### 🚀 Atuação Profissional e Voluntariado
+* 👨‍🏫 Professor de Desenvolvimento Full-Stack (JS, React, Python, Django) no **[Programa Bolsa Futuro Digital - MCTI](https://bfd.softexpe.org.br/)**.
+* 🤖 Instrutor de Programação e Robótica Educacional para crianças na **[Associação Nascente Pequenina](https://www.instagram.com/associacaonascentepequena/)**.
+* 🎨 Designer Gráfico na **[Gráfica Delivery](https://www.graficadelivery.com)**, criando soluções visuais para diversas mídias.
+* 🌍 Membro do Squad Team do **[Code Club Brasil](https://www.codeclubbrasil.org.br/)**, um projeto global para ensinar programação a jovens.
+* ⚜️ Designer Gráfico voluntário na equipe regional da **[União dos Escoteiros do Brasil - RJ](https://www.escoteirosrj.org.br/)**.
+* ⚓ Chefe Escoteiro no **[143º Grupo de Escoteiros do Mar Guapimirim](https://www.instagram.com/143gemarguapimirim/)**.
+* 🥁 E nas horas vagas, sou Músico Percussionista, com registro ativo na **[Ordem dos Músicos do Brasil (OMB-RJ)](https://ombrj.org.br/)**.
+
+## 🛠️ Tecnologias e Ferramentas
+
 <p align="center">
-  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" height="40"/>
 </p>
 
-<div display="block">
-<p align="center">👨‍💻 Dev Full-Stack 🚀</p>
-<p align="center">📚 Graduado em Analise de Sistemas</p>
-<p align="center">💻 Pós Graduado em Engenharia da Computação</p>
-<p align="center">🎨 Design Gráfico e 🔧Técnico em Eletrônica</p>
-<p align="left">👨‍🏫 Professor de desenvolvimento Front End JS React e Back End Python Django no<a href="https://bfd.softexpe.org.br/"> Programa Bolsa Futuro Digital - MCTI</a>
-<p align="left">🤖 Instrutor de programação básica e robótica educacional para crianças em uma <a href="https://www.instagram.com/associacaonascentepequena/"> ONG</a>
-<p align="left">💺 Parte do Squad Team do <a href="https://www.codeclubbrasil.org.br/">Code Club Brasil</a></p>
-<p align="left">⚜️ Escoteiro do Mar no <a href="https://www.instagram.com/143gemarguapimirim/">143º GMAR Guapimirim</a></p>
-<p align="left">🥁 Músico Percussionista</p>
-</div>
-  
-<br>  
+## 📊 Estatísticas do GitHub
 
 <p align="center">
-<a href="https://github.com/AugustoQueiroz13">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AugustoQueiroz13&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AugustoQueiroz13&layout=compact&langs_count=8&theme=algolia"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AugustoQueiroz13&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"/>
+  <a href="https://github.com/AugustoQueiroz13">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AugustoQueiroz13&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AugustoQueiroz13&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AugustoQueiroz13&radius=16&theme=react&area=true&order=5&hide_border=true" height="300" alt="activity-graph"/>
+</p>
 
+## 📫 Conecte-se Comigo
+
+*Sigam-me os bons!* 👽
+
+<p align="center">
+<a href="https://www.linkedin.com/in/queiroz-augusto/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.instagram.com/aug_queiroz" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://dev.to/augustoqueiroz13" target="_blank">
+  <img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
 </a>
 </p>
-
-<br>
-  
-### 🖥️ Tecnologias e Ferramentas: 
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JavaScript"/></code>
-<code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title = "React"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "Java"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
-<code><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/911px-ISO_C%2B%2B_Logo.svg.png" title = "C++"/></code>
-<code><img width="40px" src="https://images.icon-icons.com/112/PNG/512/python_18894.png" title = "Phyton"/></code>
-<code><img width="40px" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" title = "Arduíno"/></code>
-<code><img width="40px" src="https://logodownload.org/wp-content/uploads/2018/02/raspberry-pi-logo.png" title = "Raspberry Pi"/></code>
-  
-
-<br>
-  
-<h3>👽 Sigão-me os bons!</h3>
-<a href="https://www.instagram.com/aug_queiroz" target="_blank"><img alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"/>
-<a href="https://www.linkedin.com/in/queiroz-augusto/" target="_blank"><img alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/500px-LinkedIn_logo_initials.png"/>
-<a href="https://dev.to/augustoqueiroz13" target="_blank"><img alt="Blog" width="22px" src="https://media2.dev.to/dynamic/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png"/></a>
-
