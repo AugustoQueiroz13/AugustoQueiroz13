@@ -22,7 +22,7 @@ Sou um profissional com boa experiência na área de tecnologia, em uma jornada 
 
 ### 🚀 Atuação Profissional e Voluntariado
 * 👨‍🏫 Professor de Desenvolvimento Full-Stack (JS, React, Python, Django) no **[Programa Bolsa Futuro Digital - MCTI](https://bfd.softexpe.org.br/)**.
-* 🤖 Instrutor de Programação e Robótica Educacional para crianças na **[Associação Nascente Pequenina](https://www.instagram.com/associacaonascentepequena/)**.
+* 🤖 Instrutor de Programação e Robótica Educacional para crianças em uma **[ONG](https://www.instagram.com/associacaonascentepequena/)**.
 * 🎨 Designer Gráfico na **[Gráfica Delivery](https://www.graficadelivery.com)**, criando soluções visuais para diversas mídias.
 * 🌍 Membro do Squad Team do **[Code Club Brasil](https://www.codeclubbrasil.org.br/)**, um projeto global para ensinar programação a jovens.
 * ⚜️ Designer Gráfico voluntário na equipe regional da **[União dos Escoteiros do Brasil - RJ](https://www.escoteirosrj.org.br/)**.
