@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" />
-  <h1>Olá, eu sou o Augusto Queiroz!</h1>
+  <h1>Olá, eu sou o Augusto Queiroz! 😃🙏🌟</h1>
   <p>Desenvolvedor Full-Stack | Educador de Tecnologia | Eng da Computação | Designer & Maker</p>
   
   <details>
@@ -21,13 +21,13 @@ Sou um profissional com boa experiência na área de tecnologia, em uma jornada 
 * 🔧💡 Formação como **Técnico em Eletrônica**
 
 ### 🚀 Atuação Profissional e Voluntariado
-* 👨‍🏫 Professor de Desenvolvimento Full-Stack (JS, React, Python, Django) no **[Programa Bolsa Futuro Digital - MCTI](https://bfd.softexpe.org.br/)**.
-* 🤖 Instrutor de Programação e Robótica Educacional para crianças em uma **[ONG](https://www.instagram.com/associacaonascentepequena/)**.
-* 🎨 Designer Gráfico na **[Gráfica Delivery](https://www.graficadelivery.com)**, criando soluções visuais para diversas mídias.
-* 🌍 Membro do Squad Team do **[Code Club Brasil](https://www.codeclubbrasil.org.br/)**, um projeto global para ensinar programação a jovens.
-* ⚜️ Designer Gráfico voluntário na equipe regional da **[União dos Escoteiros do Brasil - RJ](https://www.escoteirosrj.org.br/)**.
-* ⚓ Chefe Escoteiro no **[143º Grupo de Escoteiros do Mar Guapimirim](https://www.instagram.com/143gemarguapimirim/)**.
-* 🥁 E nas horas vagas, sou Músico Percussionista, com registro ativo na **[Ordem dos Músicos do Brasil (OMB-RJ)](https://ombrj.org.br/)**.
+* 👨‍🏫 Professor de Desenvolvimento Full-Stack (JS, React, Python, Django) no **<a href="https://bfd.softexpe.org.br/" target="_blank">Programa Bolsa Futuro Digital - MCTI</a>**.
+* 🤖 Instrutor de Programação e Robótica Educacional para crianças em uma **<a href="https://www.instagram.com/associacaonascentepequena/" target="_blank">ONG</a>**.
+* 🎨 Designer Gráfico na **<a href="https://www.graficadelivery.com" target="_blank">Gráfica Delivery</a>**, criando soluções visuais para diversas mídias.
+* 🌍 Membro do Squad Team do **<a href="https://www.codeclubbrasil.org.br/" target="_blank">Code Club Brasil</a>**, um projeto global para ensinar programação a jovens.
+* ⚜️ Designer Gráfico voluntário na equipe regional da **<a href="https://www.escoteirosrj.org.br/" target="_blank">União dos Escoteiros do Brasil - RJ</a>**.
+* ⚓ Chefe Escoteiro no **<a href="https://www.instagram.com/143gemarguapimirim/" target="_blank">143º Grupo de Escoteiros do Mar Guapimirim</a>**.
+* 🥁 E nas horas vagas, sou Músico Percussionista, com registro ativo na **<a href="https://ombrj.org.br/" target="_blank">Ordem dos Músicos do Brasil (OMB-RJ)</a>**.
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -48,7 +48,7 @@ Sou um profissional com boa experiência na área de tecnologia, em uma jornada 
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <a href="https://github.com/AugustoQueiroz13">
+  <a href="https://github.com/AugustoQueiroz13" target="_blank">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AugustoQueiroz13&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AugustoQueiroz13&layout=compact&langs_count=8&theme=algolia"/>
   </a>
