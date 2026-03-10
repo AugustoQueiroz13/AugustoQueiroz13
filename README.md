@@ -23,9 +23,9 @@ Sou um profissional com boa experiência na área de tecnologia, em uma jornada 
 ### 🚀 Atuação Profissional e Voluntariado
 * 👨‍🏫 Professor de Desenvolvimento Full-Stack (JS, React, Python, Django) no **<a href="https://bfd.softexpe.org.br/" target="_blank">Programa Bolsa Futuro Digital - MCTI</a>**.
 * 🤖 Instrutor de Programação e Robótica Educacional para crianças em uma **<a href="https://www.instagram.com/associacaonascentepequena/" target="_blank">ONG</a>**.
-* 🎨 Designer Gráfico na **<a href="https://www.graficadelivery.com" target="_blank">Gráfica Delivery</a>**, criando soluções visuais para diversas mídias.
 * 🌍 Membro do Squad Team do **<a href="https://www.codeclubbrasil.org.br/" target="_blank">Code Club Brasil</a>**, um projeto global para ensinar programação a jovens.
 * ⚜️ Designer Gráfico voluntário na equipe regional de comunicação da **<a href="https://www.escoteirosrj.org.br/" target="_blank">União dos Escoteiros do Brasil - RJ</a>**.
+* 🎨 Designer Gráfico na **<a href="https://www.graficadelivery.com" target="_blank">Gráfica Delivery</a>**, criando soluções visuais para diversas mídias.
 * ⚓ Chefe Escoteiro no **<a href="https://www.instagram.com/143gemarguapimirim/" target="_blank">143º Grupo de Escoteiros do Mar Guapimirim</a>**.
 * 🥁 E nas horas vagas, sou Músico Percussionista, com registro ativo na **<a href="https://ombrj.org.br/" target="_blank">Ordem dos Músicos do Brasil (OMB-RJ)</a>**.
 
