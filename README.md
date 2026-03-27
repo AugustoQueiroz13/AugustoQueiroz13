@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" />
   <h1>Olá, eu sou o Augusto Queiroz! 😃🙏🌟</h1>
-  <p>Desenvolvedor Full-Stack | Educador de Tecnologia | Eng da Computação | Designer & Maker</p>
+  <p>Desenvolvedor Full-Stack | Eng da Computação | Cientista de Dados | Educador de Tecnologia | Designer & Maker</p>
   
   <details>
     <summary>🐱 Clique aqui para um boost de produtividade...</summary>
@@ -13,7 +13,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou um profissional com boa experiência na área de tecnologia, em uma jornada que vai da eletrônica ao desenvolvimento de software e design. Minha verdadeira paixão é **desmistificar a tecnologia** e capacitar outras pessoas a criarem suas próprias soluções. <br><br> 📚🐍 Sou autor do livro **"Lógica & Código: Fundamentos da Programação em Python com IA"**, que escrevi para ensinar o Python de forma rápida e descomplicada. -----> **[Clique aqui para comprar um exemplar do meu livro!](https://loja.uiclap.com/titulo/ua133185/)**
+Sou um profissional com boa experiência na área de tecnologia, em uma jornada que vai da eletrônica e infraestrutura ao desenvolvimento de software e design. Minha paixão é **desmistificar a tecnologia** e capacitar outras pessoas a criarem suas próprias soluções. <br><br> 📚🐍 Sou autor do livro **"Lógica & Código: Fundamentos da Programação em Python com IA"**, que escrevi para ensinar o Python de forma rápida e descomplicada. -----> **[Clique aqui para comprar um exemplar do meu livro!](https://loja.uiclap.com/titulo/ua133185/)**
 
 ### 🎓 Formação
 * ⚙️🖥️ Pós-Graduado em **Engenharia da Computação**
