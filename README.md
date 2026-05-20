@@ -15,6 +15,8 @@
 
 Sou um profissional com boa experiência na área de tecnologia, em uma jornada que vai da eletrônica e infraestrutura ao desenvolvimento de software e design. Minha paixão é **desmistificar a tecnologia** e capacitar outras pessoas a criarem suas próprias soluções. <br><br> 📚🐍 Sou autor do livro **"Lógica & Código: Fundamentos da Programação em Python com IA"**, que escrevi para ensinar o Python de forma rápida e descomplicada. -----> **[Clique aqui para comprar um exemplar do meu livro!](https://loja.uiclap.com/titulo/ua133185/)**
 
+🖥️👨‍💻 -----> **[Clique aqui](https://augustoqueiroz13.github.io/meu-portfolio/) para acessar meu portifólio com alguns dos meus projetos, formação e trajetória profissional.**
+
 ### 🎓 Formação
 * ⚙️🖥️ Pós-Graduado em **Engenharia da Computação, Big Data e IA**
 * 🎓👨‍💻 Graduado em **Análise e Desenvolvimento de Sistemas**
