@@ -16,7 +16,7 @@
 Sou um profissional com boa experiência na área de tecnologia, em uma jornada que vai da eletrônica e infraestrutura ao desenvolvimento de software e design. Minha paixão é **desmistificar a tecnologia** e capacitar outras pessoas a criarem suas próprias soluções. <br><br> 📚🐍 Sou autor do livro **"Lógica & Código: Fundamentos da Programação em Python com IA"**, que escrevi para ensinar o Python de forma rápida e descomplicada. -----> **[Clique aqui para comprar um exemplar do meu livro!](https://loja.uiclap.com/titulo/ua133185/)**
 
 ### 🎓 Formação
-* ⚙️🖥️ Pós-Graduado em **Engenharia da Computação**
+* ⚙️🖥️ Pós-Graduado em **Engenharia da Computação, Big Data e IA**
 * 🎓👨‍💻 Graduado em **Análise e Desenvolvimento de Sistemas**
 * 🔧💡 Formação como **Técnico em Eletrônica**
 
