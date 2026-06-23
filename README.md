@@ -23,6 +23,7 @@ Sou um profissional com boa experiência na área de tecnologia, em uma jornada 
 * 🔧💡 Formação como **Técnico em Eletrônica**
 
 ### 🚀 Atuação Profissional e Voluntariado
+* 🖥️📊 Cientista de Dados do programa Planeja+ Petrobrás na **<a href="https://associacaoraizes.org.br/" target="_blank"> Associação Raízes</a>**.
 * 🖥️🧬 Pesquisador Bolsista em Engenharia de Machine Learning na **<a href="https://www.firjan.com.br/news/flipbook/portfolio-isi-quimica-verde/index.html" target="_blank">Firjan - Intituto Senai de Inovação - QV</a>**.
 * 👨‍🏫 Professor de Desenvolvimento Full-Stack (JS, React, Python, Django) no **<a href="https://bfd.softexpe.org.br/" target="_blank">Programa Bolsa Futuro Digital - MCTI</a>**.
 * 🤖 Instrutor de Programação e Robótica Educacional para crianças em uma **<a href="https://www.instagram.com/associacaonascentepequena/" target="_blank">ONG</a>**.
